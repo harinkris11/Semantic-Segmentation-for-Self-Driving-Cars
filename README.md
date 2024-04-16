@@ -1,4 +1,4 @@
-# Visual Learning - Semantic Segmentation of Self Driving Cars
+# Visual Learning - Semantic Segmentation for Self-Driving Cars
 
 
 # Streamlit Application
